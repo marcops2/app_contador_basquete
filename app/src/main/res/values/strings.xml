@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Basquete</string>
+    <string name="contadordepontos">Contador de Pontos</string>
+    <string name="button3pontos">+3 pontos</string>
+    <string name="button2pontos">+2 pontos</string>
+    <string name="buttontirolivre">Tiro Livre</string>
+    <string name="resultado">Resultado</string>
+    <string name="time1">Time A</string>
+    <string name="time2">Time B</string>
+    <string name="numa">0</string>
+    <string name="numb">0</string>
+    <string name="mensagem">Time A Venceu</string>
+    <string name="mensagemb">Time B Venceu</string>
+    <string name="empate">Empatou</string>
+    <string name="TitleResult">Resultado</string>
+</resources>
